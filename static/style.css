@@ -1,0 +1,66 @@
+body {
+    background-color: #fefefe;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.header {
+    background: linear-gradient(to right, #004d7a, #008793);
+    color: white;
+    padding: 25px;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.sub-header {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-bottom: 30px;
+    color: #555;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
+}
+
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 4px 4px 20px rgba(0,0,0,0.1);
+}
+
+.card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.card-body a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #007bff;
+}
+
+.card-body a:hover {
+    text-decoration: underline;
+}
+
+textarea {
+    resize: vertical;
+    font-size: 1rem;
+}
+
+.note-box {
+    resize: vertical;
+    font-size: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.note-container {
+    position: relative;
+}
