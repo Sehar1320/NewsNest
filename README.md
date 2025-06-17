@@ -30,7 +30,7 @@ With a colorful, column-based layout and integrated note-taking section, this ap
 
 ## 📸 Screenshot
 
-![App Screenshot](Screenshot 2025-06-17 141956.png)
-![App Screenshot](Screenshot 2025-06-17 142013.png)
+![App Screenshot](https://github.com/Sehar1320/NewsNest/blob/main/Screenshot%202025-06-17%20141956.png)
+![App Screenshot](https://github.com/Sehar1320/NewsNest/blob/main/Screenshot%202025-06-17%20142013.png)
 
 ---
