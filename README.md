@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/WZB6dXQ.png" width="100%" alt="NewsNest Banner">
+  <img src="Screenshot 2025-06-17 141956.png" width="100%" alt="NewsNest Banner">
 </div>
 
 # 📰 NewsNest — Your Daily News, Beautifully Organized
